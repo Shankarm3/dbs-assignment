@@ -1,5 +1,5 @@
 import React from 'react';
-import InsuranceDetails from './InsuranceDetails';
+import InsuranceDetails from '../InsuranceDetails/InsuranceDetails';
 
 const HowItWorks = ({data}) => {
     return (

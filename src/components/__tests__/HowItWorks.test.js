@@ -1,9 +1,9 @@
 import { mount } from 'enzyme';
 import DataStore from '../../utils/DataStore';
-import HowItWorks from '../HowItWorks';
-import InsuranceDetails from '../InsuranceDetails';
-import HomeLoanDetails from '../HomeLoanDetails';
-import PolicyDetails from '../PolicyDetails';
+import HowItWorks from '../HowItWorks/HowItWorks';
+import InsuranceDetails from '../InsuranceDetails/InsuranceDetails';
+import HomeLoanDetails from '../HomeLoanDetails/HomeLoanDetails';
+import PolicyDetails from '../PolicyDetails/PolicyDetails';
 
 describe('Test cases for How It Works', () => {
 

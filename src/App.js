@@ -1,6 +1,6 @@
 import React from 'react';
 import DataStore from './utils/DataStore';
-import HowItWorks from './components/HowItWorks';
+import HowItWorks from './components/HowItWorks/HowItWorks';
 import './css/main.css';
 
 const App = () => {

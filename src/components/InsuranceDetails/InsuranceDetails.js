@@ -1,6 +1,6 @@
 import React from 'react';
-import HomeLoanDetails from './HomeLoanDetails';
-import PolicyDetails from './PolicyDetails';
+import HomeLoanDetails from '../HomeLoanDetails/HomeLoanDetails';
+import PolicyDetails from '../PolicyDetails/PolicyDetails';
 
 const InsuranceDetails = ({data}) => {
     return (
